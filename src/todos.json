@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "tarea": "Instalar Node.js",
+      "responsable": "Ingeniero",
+      "dia": "Lunes",
+      "prioridad": "Alta"
+    },
+    {
+      "tarea": "Hacer la aplicación",
+      "responsable": "Ingeniero",
+      "dia": "Martes",
+      "prioridad": "Media"
+    },
+    {
+      "tarea": "Aplicar los estilos",
+      "responsable": "Diseñador",
+      "dia": "Miercoles",
+      "prioridad": "Baja"
+    }
+  ]
+}
